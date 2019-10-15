@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<list>
+  <entities.GeneralIncome>
+    <customerCode>M001</customerCode>
+    <type>G</type>
+    <name>Clark Consultants</name>
+    <address>
+      <street>259 Concorde Suites</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>68588-0115</zip>
+      <county>USA</county>
+    </address>
+  </entities.GeneralIncome>
+  <entities.LowIncome>
+    <customerCode>M002</customerCode>
+    <type>L</type>
+    <name>CAS International Fellows</name>
+    <address>
+      <street>1223 Oldfather Hall</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>68503</zip>
+      <county>USA</county>
+    </address>
+  </entities.LowIncome>
+  <entities.LowIncome>
+    <customerCode>M003</customerCode>
+    <type>L</type>
+    <name>Valueless Club</name>
+    <address>
+      <street>123 Venture Way</street>
+      <city>Culver City</city>
+      <state>CA</state>
+      <zip>90230</zip>
+      <county>USA</county>
+    </address>
+  </entities.LowIncome>
+  <entities.GeneralIncome>
+    <customerCode>M004</customerCode>
+    <type>G</type>
+    <name>Stony Brook</name>
+    <address>
+      <street>9800 Savage Rd</street>
+      <city>Fort Meade</city>
+      <state>MD</state>
+      <zip>20755</zip>
+      <county>USA</county>
+    </address>
+  </entities.GeneralIncome>
+  <entities.GeneralIncome>
+    <customerCode>M005</customerCode>
+    <type>G</type>
+    <name>Hewlett Industries</name>
+    <address>
+      <street>1060 West Addison</street>
+      <city>Chicago</city>
+      <state>IL</state>
+      <zip>60601</zip>
+      <county>USA</county>
+    </address>
+  </entities.GeneralIncome>
+  <entities.LowIncome>
+    <customerCode>M006</customerCode>
+    <type>L</type>
+    <name>Gregory Smith</name>
+    <address>
+      <street>456 West 7th St.</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <zip>68500</zip>
+      <county>USA</county>
+    </address>
+  </entities.LowIncome>
+</list>

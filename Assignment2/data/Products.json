@@ -1,0 +1,132 @@
+{
+  "startDate": "2017-01-13",
+  "endDate": "2018-01-12",
+  "address": {
+    "street": "179 West Lane",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68588-0115",
+    "county": "USA"
+  },
+  "name": "CAS International Fellows",
+  "deposit": 450.0,
+  "monthlyCost": 400.0,
+  "productCode": "b29e",
+  "productType": "L"
+}
+{
+  "name": "4.99",
+  "cost": 4.99,
+  "productCode": "ff23",
+  "productType": "A"
+}
+{
+  "dateTime": "2016-10-21 13:10",
+  "address": {
+    "street": "3555 South 140th Plaza",
+    "city": "Omaha",
+    "state": " NE",
+    "zip": " 68144",
+    "county": " USA"
+  },
+  "totalCost": 215000.0,
+  "downPayment": 10000.0,
+  "monthlyPayment": 600.0,
+  "payableMonths": 24,
+  "interestRate": 4.0,
+  "productCode": "fp12",
+  "productType": "S"
+}
+{
+  "parkingFee": 25.0,
+  "productCode": "90fa",
+  "productType": "P"
+}
+{
+  "dateTime": "2018-01-16 15:30",
+  "address": {
+    "street": "755 Willard Drive",
+    "city": "Ashwaubenon",
+    "state": " WI",
+    "zip": " 54304",
+    "county": " USA"
+  },
+  "totalCost": 11000.0,
+  "downPayment": 1000.0,
+  "monthlyPayment": 70.0,
+  "payableMonths": 18,
+  "interestRate": 3.59,
+  "productCode": "1239",
+  "productType": "S"
+}
+{
+  "dateTime": "2016-11-10 10:00",
+  "address": {
+    "street": "6301 University Ave",
+    "city": "Cedar Falls",
+    "state": " IA",
+    "zip": " 50613",
+    "county": " USA"
+  },
+  "totalCost": 4200000.0,
+  "downPayment": 200000.0,
+  "monthlyPayment": 8750.0,
+  "payableMonths": 36,
+  "interestRate": 2.11,
+  "productCode": "782g",
+  "productType": "S"
+}
+{
+  "parkingFee": 55.0,
+  "productCode": "3289",
+  "productType": "P"
+}
+{
+  "name": "5.50",
+  "cost": 5.5,
+  "productCode": "32f4",
+  "productType": "A"
+}
+{
+  "startDate": "2017-11-24",
+  "endDate": "2018-11-23",
+  "address": {
+    "street": "449 3rd Ave",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68521-5593",
+    "county": "USA"
+  },
+  "name": "Stony Brook",
+  "deposit": 900.0,
+  "monthlyCost": 900.0,
+  "productCode": "3y92",
+  "productType": "L"
+}
+{
+  "parkingFee": 20.0,
+  "productCode": "90fb",
+  "productType": "P"
+}
+{
+  "startDate": "2016-10-07",
+  "endDate": "2017-10-06",
+  "address": {
+    "street": "375 Northwoods",
+    "city": "Souix City",
+    "state": " IA",
+    "zip": " 44982",
+    "county": " USA"
+  },
+  "name": "Stony Brook",
+  "deposit": 1299.0,
+  "monthlyCost": 1000.0,
+  "productCode": "xer4",
+  "productType": "L"
+}
+{
+  "name": "69.50",
+  "cost": 69.5,
+  "productCode": "yp23",
+  "productType": "A"
+}
